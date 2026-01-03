@@ -125,6 +125,8 @@ The dataset includes customer details such as:
 - Logistic Regression provided a strong baseline
 - Decision Tree was interpretable but prone to overfitting
 <img width="738" height="254" alt="image" src="https://github.com/user-attachments/assets/d93c8e9a-cd38-4552-ba09-6cf44d14b0fe" />
+<img width="1234" height="680" alt="image" src="https://github.com/user-attachments/assets/31283ef2-a5fa-494b-b64d-5027bbb5fc46" />
+
   
 
 ---
