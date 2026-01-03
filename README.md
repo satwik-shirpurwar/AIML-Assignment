@@ -99,7 +99,7 @@ Description:
     •False Negatives (FN) – Churned customers predicted as non-churn
     •This analysis helped understand strengths and weaknesses of each model in churn prediction.    
    
-  Final Results
+  Final Results:-
 
   •All three models were successfully trained and evaluated.
   •Random Forest achieved the best performance among the models.
@@ -107,7 +107,7 @@ Description:
   •Decision Tree offered clear decision rules but was more prone to overfitting.
   •The confusion matrices demonstrate each model’s ability to distinguish between churned and non-churned customers.   
 
-  Conclusion
+  Conclusion:-
   •This project demonstrates a complete end-to-end machine learning workflow, including:
   •Data preprocessing
   •Feature encoding and scaling
