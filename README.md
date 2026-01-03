@@ -1,7 +1,7 @@
 # AIML-Assignment
 📊 Telco Customer Churn Prediction – AIML Project
 
-🔍 Project Overview
+🔍 Project Overview 
 This project builds a machine learning model to predict customer churn (whether a customer will leave the service or not) using the Telco Customer Churn dataset.
 The goal is to demonstrate basic ML workflow, data preprocessing, model training, and evaluation.
 
